@@ -5,7 +5,7 @@
         <meta name="description" content="My writing portfolio">
         <meta name="author" content="Emma Baldwin">
         <title>Emma Baldwin's Portfolio</title>
-        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+        <link rel="stylesheet" type="text/css" href="index.css">
     </head>
 <body>
     <h1>Hello, and welcome to my portfolio!</h1>
