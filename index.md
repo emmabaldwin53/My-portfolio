@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -9,7 +9,7 @@
     </head>
 <body>
     <h1>Hello, and welcome to my portfolio!</h1>
-        <a><img src="/Users/melissabaldwin/Desktop/Web Projects/portfolio site draft/Images/DA79C499-44CD-44E3-BCE9-ECF346DB77C4.jpeg" alt="Forrest" width="900" height="300"></a>
+        <a><img src="Images/DA79C499-44CD-44E3-BCE9-ECF346DB77C4.jpeg" alt="Forrest" width="900" height="300"></a>
         <p> My name is Emma Baldwin, and I am a writer and information advocate.</p>
         <p>What does that mean?</p>
         <p>I love that with the internet comes so much access to information; it lowers the branches of knowledge previously out of reach to so many people. Even still, most knowledge is inaccessible to people, not by location, but by education gaps. I want to help close that gap through writing, communication, and ethical rhetoric.</p>   
