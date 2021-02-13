@@ -22,7 +22,7 @@
                  <a href="https://drive.google.com/drive/u/0/folders/1CnSYP8MCX9f_bKLXMKP9DUFE85I81q0n">You can find some of my writing samples here!</a>
              </p>
          <h3>Resume</h3>
-                  <a><img src="/Users/melissabaldwin/Desktop/Web Projects/portfolio site draft/Images/resume.image.png" height="50%" width="50%"></a>
+                  <a><img src="Images/resume.image.png" height="50%" width="50%"></a>
             </ul>
             </nav>
 </body>
