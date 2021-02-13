@@ -14,9 +14,9 @@
         <p>What does that mean?</p>
         <p>I love that with the internet comes so much access to information; it lowers the branches of knowledge previously out of reach to so many people. Even still, most knowledge is inaccessible to people, not by location, but by education gaps. I want to help close that gap through writing, communication, and ethical rhetoric.</p>   
     
-    <h2> My Portfolio and Resume</h2>
-        <h3>Writing Samples</h3>
             <nav class="navbar">
+             <h2> My Portfolio and Resume</h2>
+        <h3>Writing Samples</h3>
             <ul class="nav-links">
              <p>
                  <a href="https://drive.google.com/drive/u/0/folders/1CnSYP8MCX9f_bKLXMKP9DUFE85I81q0n">You can find some of my writing samples here!</a>
